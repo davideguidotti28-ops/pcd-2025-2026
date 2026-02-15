@@ -1,4 +1,4 @@
-package pcd.lab01.ex02;
+package pcd.lab01.ex01;
 
 import java.util.*;
 
