@@ -21,6 +21,11 @@ The practical part concern the development of **assignments** proposed during th
 The oral discussion is both about the assignments and the key concepts and methods discussed during the course. 
 - The discussion is **individual**.
 
+### How to fix the date of the exam
+
+In order to fix the date of the exam, you must send me (a.ricci@unibo.it) specifying the week in which they would like to have the oral exam and I will reply with a proposal about some specific slots.
+- There will be no fixed dates on "AlmaEsami", the date will be decided by email.
+ 
  
 
 
