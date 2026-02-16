@@ -6,7 +6,7 @@ PCD a.y. 2024-2025 - ISI LM UNIBO - Cesena Campus
 ### Multithreaded programming in Java - Basics 
 
 - Java Thread Basic API overview 
-	- How to define / create / spwan threads
+	- How to define / create / spawn threads
 	- A look at basic methods/mechanisms and Java System API  
 	- Example: `pcd.lab01.hello`
 
